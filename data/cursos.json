@@ -1,0 +1,102 @@
+[
+  {
+    "id_curso": "CURS_DEVWEB_001",
+    "titulo": "Desenvolvimento Web Completo 2025",
+    "instrutor": "Carlos Ferreira",
+    "descricao_curta": "Aprenda HTML, CSS, JavaScript, Node.js, React e muito mais!",
+    "categoria": "Desenvolvimento Web",
+    "preco": 499.9,
+    "avaliacao_media": 4.8,
+    "numero_alunos": 12500
+  },
+  {
+    "id_curso": "CURS_MKTDIG_003",
+    "titulo": "Marketing Digital para Iniciantes",
+    "instrutor": "Juliana Santos",
+    "descricao_curta": "Domine estratégias de SEO, mídias sociais e e-mail marketing.",
+    "categoria": "Marketing",
+    "preco": 299.9,
+    "avaliacao_media": 4.6,
+    "numero_alunos": 8750
+  },
+  {
+    "id_curso": "CURS_DS_002",
+    "titulo": "Ciência de Dados com Python",
+    "instrutor": "Ana Paula Lima",
+    "descricao_curta": "Manipule dados com pandas, numpy e matplotlib.",
+    "categoria": "Data Science",
+    "preco": 399.9,
+    "avaliacao_media": 4.7,
+    "numero_alunos": 9700
+  },
+  {
+    "id_curso": "CURS_FRONTEND_004",
+    "titulo": "Frontend Avançado com React",
+    "instrutor": "João Henrique",
+    "descricao_curta": "Hooks, Context API, Redux e melhores práticas.",
+    "categoria": "Desenvolvimento Web",
+    "preco": 449.9,
+    "avaliacao_media": 4.9,
+    "numero_alunos": 15000
+  },
+  {
+    "id_curso": "CURS_BACKEND_005",
+    "titulo": "Node.js + Express para APIs REST",
+    "instrutor": "Luciana Braga",
+    "descricao_curta": "Crie APIs completas e seguras com Node.js.",
+    "categoria": "Backend",
+    "preco": 349.9,
+    "avaliacao_media": 4.8,
+    "numero_alunos": 11000
+  },
+  {
+    "id_curso": "CURS_UXUI_006",
+    "titulo": "UX/UI Design para Iniciantes",
+    "instrutor": "Fernando Silva",
+    "descricao_curta": "Princípios de design centrado no usuário.",
+    "categoria": "Design",
+    "preco": 259.9,
+    "avaliacao_media": 4.5,
+    "numero_alunos": 6800
+  },
+  {
+    "id_curso": "CURS_MOBILE_007",
+    "titulo": "Apps com React Native",
+    "instrutor": "Amanda Costa",
+    "descricao_curta": "Desenvolva apps nativos com JavaScript.",
+    "categoria": "Mobile",
+    "preco": 399.9,
+    "avaliacao_media": 4.7,
+    "numero_alunos": 9100
+  },
+  {
+    "id_curso": "CURS_CLOUD_008",
+    "titulo": "Fundamentos de Cloud Computing",
+    "instrutor": "Eduardo Prado",
+    "descricao_curta": "Entenda IaaS, PaaS, SaaS e AWS.",
+    "categoria": "Infraestrutura",
+    "preco": 279.9,
+    "avaliacao_media": 4.6,
+    "numero_alunos": 7300
+  },
+  {
+    "id_curso": "CURS_SEG_009",
+    "titulo": "Segurança da Informação",
+    "instrutor": "Vanessa Monteiro",
+    "descricao_curta": "Criptografia, autenticação e boas práticas.",
+    "categoria": "Segurança",
+    "preco": 329.9,
+    "avaliacao_media": 4.8,
+    "numero_alunos": 6000
+  },
+  {
+    "id_curso": "CURS_PROJ_010",
+    "titulo": "Gestão Ágil de Projetos",
+    "instrutor": "Rafael Andrade",
+    "descricao_curta": "Scrum, Kanban e gestão de equipes.",
+    "categoria": "Gestão",
+    "preco": 309.9,
+    "avaliacao_media": 4.7,
+    "numero_alunos": 8100
+  }
+]
